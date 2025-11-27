@@ -387,7 +387,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Your Name
 GitHub: github.com/your_username
-Email: your@email.com
+Email: nazarijsevcuk69@gmail.com
 
 ## Acknowledgments
 
